@@ -45,6 +45,9 @@ gallery:
   - alt: yellow ice cream
     image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
     title: Yellow Ice Cream
+  - alt: Yellow Ice Cream
+    image: 'https://ucarecdn.com/65d43917-373d-460b-bda6-8138c60aa889/'
+    title: tytuł
 meta:
   description: This is a meta description.
   title: Components Page
